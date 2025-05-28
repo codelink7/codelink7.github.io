@@ -1,10 +1,4 @@
 
----
-layout: post
-title: Cloud OS adventures
----
-
-
 # 💻 From OS Course Assignment to Cloud Rant: My AWS Adventures
 
 Hey everyone! So, this all started out as a straightforward assignment for my Operating Systems class. You know the drill—read the textbook, summarize the chapter, cite your sources. But honestly? I couldn’t help but want to dive a little deeper and just talk about it in my own words—like how I’d explain it to a friend back in the early 2000s. So here we are, in blog form!
