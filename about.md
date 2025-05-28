@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+an ECE senior student who likes learning computer science and engineering
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Likes to brag about simple projects he's not going to finish any time soon!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[codelink7@gmail.com](mailto:codelink7@gmail.com)
