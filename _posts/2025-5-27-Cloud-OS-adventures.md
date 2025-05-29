@@ -1,3 +1,7 @@
+---
+layout: post
+title: Hello World
+---
 
 # 💻 From OS Course Assignment to Cloud Rant: My AWS Adventures
 
